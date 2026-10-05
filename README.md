@@ -5,6 +5,6 @@ This repository is a example.
 
 Hello everyone, I am a newbie on GitHub and am still learning in this field. This module is a linkage module between Tinkers' Construct 3 and Regions Unexplored, Biomes O' Plenty and some new materials. It is currently in the development stage and will be continuously updated
 
- ，模组前置:匠魂3，Json Things
+ 模组前置:匠魂3，Json Things
 
  This mod need : Tinkers' Construct 3 ,Json Things(If without these mods, the mod will not work)
